@@ -6,4 +6,4 @@ fi
 source "ges71_env/bin/activate"
 which python
 pip3 install --upgrade pip
-pip install numpy
+pip3 install numpy
